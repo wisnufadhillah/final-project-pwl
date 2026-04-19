@@ -1,14 +1,5 @@
 # Nimble Store
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif">
-    <img alt="Cat" src="https://media.tenor.com/sbfBfp3FeY8AAAAj/oia-uia.gif" title="Cat" width="30%"/>
-  </picture>
-</div>
-
-## Deskripsi
-
 **Nimble Store** adalah website toko sepatu dengan desain modern dan kekinian. Website ini dirancang untuk memberikan pengalaman belanja online yang responsif, interaktif, dan user-friendly. Selain menampilkan katalog produk, website ini juga dilengkapi dengan fitur CRUD untuk pengguna, produk, dan komentar, sehingga mempermudah pengelolaan toko oleh admin.
 
 ## Preview
