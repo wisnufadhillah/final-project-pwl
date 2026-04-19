@@ -52,8 +52,8 @@ Ikuti langkah-langkah berikut untuk mengunduh dan menjalankan Nimble Store di se
    Jalankan perintah berikut untuk mengunduh project ke komputer Anda.
 
     ```bash
-    git clone https://github.com/salmanabdurrahman/nimble-store.git
-    cd nimble-store
+    git clone https://github.com/wisnufadhillah/final-project-pwl.git
+    cd final-project-pwl
     ```
 
 2. **Instalasi Dependencies**
